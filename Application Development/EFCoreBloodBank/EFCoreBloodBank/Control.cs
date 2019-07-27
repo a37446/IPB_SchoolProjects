@@ -35,7 +35,7 @@ namespace EFCoreBloodBank
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server = tcp:bloodbank.database.windows.net, 1433; Initial Catalog = BloodBank; Persist Security Info = False; User ID = BloodBank; Password = Ratoragat19; MultipleActiveResultSets = False; Encrypt = True; TrustServerCertificate = False; Connection Timeout = 30;");
+            optionsBuilder.UseSqlServer("Server = tcp:bloodbank.database.windows.net, 1433; Initial Catalog = BloodBank; Persist Security Info = False; User ID = {ID}; Password = {password}; MultipleActiveResultSets = False; Encrypt = True; TrustServerCertificate = False; Connection Timeout = 30;");
         }
 
     }
