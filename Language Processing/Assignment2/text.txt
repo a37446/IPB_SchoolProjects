@@ -1,0 +1,60 @@
+{ "type": "FeatureCollection",
+  "features": [
+
+
+
+
+
+      { "type": "Feature",
+        "geometry": {
+        "type": "Point",
+        "coordinates": [37.772, -122.214]
+      },
+        "properties": {
+        "prop0": "value0",
+        "prop1": {"this": "that"}
+      }
+      },
+ 
+
+
+
+
+
+      { "type": "Feature",
+        "geometry": {
+        "type": "LineString",
+        "coordinates": [
+                        [[37.772, -122.214], [21.291, -157.821], [-18.142, 178.431], [-27.467, 153.027]]
+           ]
+       },
+       "properties": {
+        "prop0": "value0",
+        "prop1": {"this": "that"}
+       }
+       },
+
+
+
+
+
+
+
+       { "type": "Feature",
+         "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+                       [[-32.364, 153.207],[-35.364,153.207],[-35.364,158.207],[-32.364,158.207]],
+                       [[-33.364, 154.207],[-34.364,154.207],[-34.364,155.207],[-33.364,155.207]],
+                       [[-33.364, 156.207],[-34.364,156.207],[-34.364,157.207],[-33.634,157.207]]
+            ]
+       },
+        "properties": {
+        "prop0": "value0",
+        "prop1": {"this": "that"}
+       }
+       }
+
+ 
+]
+}
