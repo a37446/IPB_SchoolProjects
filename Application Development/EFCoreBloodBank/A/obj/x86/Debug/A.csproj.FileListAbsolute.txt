@@ -1,0 +1,312 @@
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\App.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\A.xr.xml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\A.exe
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\A.pdb
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\resources.pri
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\AppxManifest.xml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Core\A.exe
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\A.build.appxrecipe
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\System.Runtime.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\App.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\App.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\App.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\App.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\A.csproj.CopyComplete
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\A.exe
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\A.pdb
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\priconfig.xml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\resources.resfiles
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pri.resfiles
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\qualifiers.txt
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\DonorsNearMe.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\DonorsNearMe.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\FAQ.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\FAQ.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\HomePage.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\HomePage.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Search.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Search.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\DonorsNearMe.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\FAQ.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\HomePage.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Search.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\DonorsNearMe.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\FAQ.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\HomePage.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Search.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\DonationRecords.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\DonationRecords.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\MyContentPage.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\MyContentPage.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\SettingsPage.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\SettingsPage.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\DonationRecords.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\MyContentPage.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\SettingsPage.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\DonationRecords.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\MyContentPage.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\SettingsPage.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\DonationRecords.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\DonorsNearMe.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\FAQ.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\HomePage.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\MyContentPage.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\Search.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\SettingsPage.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\A.csprojAssemblyReference.cache
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\Remotion.Linq.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\System.Interactive.Async.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\BloodBank.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\BloodBank.pdb
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.EntityFrameworkCore.SqlServer\en-US\Microsoft.EntityFrameworkCore.SqlServer.Properties.SqlServerStrings.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\MainPage.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\MainPage.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\MainPage.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\MainPage.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\MainPage.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\Forms\Login.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Login.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Login.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Login.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Login.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\bin\x86\Debug\pages\Forms\Register.xbf
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Register.g.i.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Register.g.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Register.xaml
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Register.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\App.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Forms\Register.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\MainPage.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\DonationRecords.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\DonorsNearMe.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\HomePage.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\MyContentPage.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Search.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\SettingsPage.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\A.xr.xml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\A.exe
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\A.pdb
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\resources.pri
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\AppxManifest.xml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Core\A.exe
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\A.build.appxrecipe
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Remotion.Linq.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\System.Runtime.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\System.Interactive.Async.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\BloodBank.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\BloodBank.pdb
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\A.csprojAssemblyReference.cache
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\App.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\App.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Register.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Register.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\MainPage.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\MainPage.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\DonationRecords.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\DonationRecords.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\DonorsNearMe.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\DonorsNearMe.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\HomePage.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\HomePage.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\MyContentPage.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\MyContentPage.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Search.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Search.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\SettingsPage.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\SettingsPage.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\App.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Register.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\MainPage.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\DonationRecords.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\DonorsNearMe.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\HomePage.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\MyContentPage.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Search.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\SettingsPage.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\App.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Register.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\MainPage.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\DonationRecords.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\DonorsNearMe.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\HomePage.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\MyContentPage.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Search.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\SettingsPage.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\A.csproj.CopyComplete
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\A.exe
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\A.pdb
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.EntityFrameworkCore.SqlServer\en-US\Microsoft.EntityFrameworkCore.SqlServer.Properties.SqlServerStrings.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\priconfig.xml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\resources.resfiles
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pri.resfiles
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\qualifiers.txt
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Login.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Login.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Login.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Login.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Login.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Forms\AddNews.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\AddNews.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\AddNews.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\AddNews.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\AddNews.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\Newtonsoft.Json.pdb
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Loggedin.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Loggedin.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Loggedin.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Loggedin.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Loggedin.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\AllNewsList.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\AllNewsList.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\AllNewsList.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\AllNewsList.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\AllNewsList.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Doners\A+.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Doners\AB+.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Doners\B+.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Doners\O+.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\A+.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\A+.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\AB+.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\AB+.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\B+.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\B+.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\O+.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\O+.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\A+.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\AB+.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\B+.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\O+.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\A+.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\AB+.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\B+.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\O+.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Doners\ABneg.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Doners\Aneg.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Doners\Bneg.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Doners\Oneg.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\ABneg.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\ABneg.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Aneg.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Aneg.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Bneg.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Bneg.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Oneg.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Oneg.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\ABneg.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Aneg.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Bneg.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Oneg.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\ABneg.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Aneg.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Bneg.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Doners\Oneg.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Forms\UpdateNews.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\UpdateNews.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\UpdateNews.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\UpdateNews.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\UpdateNews.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\AboutUs.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\AboutUs.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\AboutUs.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\AboutUs.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\AboutUs.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Forms\Record.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Record.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Record.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Record.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\Record.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\UserUpdate.g.i.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\UserUpdate.g.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\UserUpdate.xaml
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\obj\x86\Debug\pages\Forms\UserUpdate.xbf
+C:\Users\Manisha\Desktop\EFCoreBloodBank\A\bin\x86\Debug\pages\Forms\UserUpdate.xbf

@@ -1,0 +1,51 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="A.pages.Forms.UpdateNews"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:A.pages.Forms"
+      xmlns:models="using:EFCoreBloodBank.Classes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:models1="using:BloodBank.Classes"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="LightCoral">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="600"/>
+        </Grid.RowDefinitions>
+
+        <ListView x:ConnectionId='2' Grid.Row="0"                                      >
+            <ListView.ItemTemplate>
+                <DataTemplate                          >
+                    <StackPanel x:ConnectionId='6'>
+                        <TextBlock Text="***Before the Update***" FontSize="30" FontWeight="ExtraBold"/>
+                        <RelativePanel>
+                            <TextBlock Text="Title:"/>
+                            <TextBlock x:ConnectionId='8' HorizontalAlignment="Stretch" Margin="196,0,-196,0" VerticalAlignment="Stretch" Width="1000" Height="80"                      />
+                        </RelativePanel>
+                        <RelativePanel>
+                            <TextBlock Text="Description:"/>
+                            <TextBlock x:ConnectionId='7' HorizontalAlignment="Stretch" Margin="196,0,-196,0" VerticalAlignment="Stretch" x:Name="deta" Width="1000" Height="80"                        />
+                        </RelativePanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="***Make an Update to existing News***" FontSize="30" FontWeight="ExtraBold"/>
+            <RelativePanel Height="60">
+                <TextBlock Text="New Title:"/>
+                <TextBox x:ConnectionId='5' x:Name="title" Margin="195,10,-584,-10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+            </RelativePanel>
+            <RelativePanel Height="60">
+                <TextBlock Text="New Descriptions:"/>
+                <TextBox x:ConnectionId='4' x:Name="desc" Grid.Row="1" Margin="200,10,-581,-65" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+            </RelativePanel>
+            <Button x:ConnectionId='3' Width="95" Height="30" Content="Update"              HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,0" />
+        </StackPanel>
+    </Grid>
+</Page>
+

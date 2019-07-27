@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationView">
+      <RootProperty Name="MenuItems" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="Loaded" />
+      <RootEvent Name="ItemInvoked" />
+      <RootEvent Name="BackRequested" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationViewItem">
+      <RootProperty Name="Icon" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Tag" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Frame">
+      <RootProperty Name="Padding" />
+      <RootProperty Name="IsTabStop" />
+      <RootEvent Name="NavigationFailed" />
+    </RootType>
+    <RootType FullName="Our_BloodBank.MainPage" />
+    <RootType FullName="Our_BloodBank.pages.DonorRecords" />
+    <RootType FullName="Our_BloodBank.pages.DonorsNearMe" />
+    <RootType FullName="Our_BloodBank.pages.FAQ" />
+    <RootType FullName="Our_BloodBank.pages.HomePage" />
+    <RootType FullName="Our_BloodBank.pages.Search" />
+    <RootType FullName="Our_BloodBank.pages.SettingPage" />
+  </Roots.RootTypes>
+</Roots>

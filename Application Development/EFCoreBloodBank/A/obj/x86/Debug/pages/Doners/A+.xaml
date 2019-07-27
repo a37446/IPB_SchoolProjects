@@ -1,0 +1,57 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="A.pages.Doners.A_"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:A.pages.Doners"
+     xmlns:models="using:EFCoreBloodBank.Classes"
+    
+   
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Grid Background="LightCoral">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="100"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1160"/>
+                <ColumnDefinition Width="840"/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="List of Donors -Life Savérs   ;) " FontStretch="ExtraExpanded" FontWeight="Bold" FontSize="30"/>
+            <TextBlock Text="Search donors with same bloodtype:" Margin="568,60,339,10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+            <TextBox x:ConnectionId='2'
+            x:Name="box" Margin="820,55,160,15"
+            />
+            <Button x:ConnectionId='3'                     
+            Content="OK" HorizontalAlignment="Left" Margin="1000,55,0,0" VerticalAlignment="Top" Height="30" Width="45"/>
+            <ListView x:ConnectionId='4' Grid.Column="0"  Grid.Row="1"
+                                              Grid.ColumnSpan="2">
+                <ListView.ItemTemplate>
+                    <DataTemplate                         >
+                        <StackPanel x:ConnectionId='5' Height="200">
+                            <TextBlock Height="40" >
+                            <Run Text="Name of the Donor:"/>
+                            <Run x:ConnectionId='8'                     />
+                            </TextBlock>
+                            <TextBlock Height="40" >
+                            <Run Text="BloodType:"/>
+                            <Run x:ConnectionId='7'                          />
+                            </TextBlock>
+
+                            <Button x:ConnectionId='6'                        Content="Request for a Donation" Width="180" Height="50"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </Grid>
+    </Grid>
+</Page>
+

@@ -1,0 +1,11 @@
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\bin\Debug\netcoreapp2.1\EFCoreBloodBank.deps.json
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\bin\Debug\netcoreapp2.1\EFCoreBloodBank.runtimeconfig.json
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\bin\Debug\netcoreapp2.1\EFCoreBloodBank.runtimeconfig.dev.json
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\bin\Debug\netcoreapp2.1\EFCoreBloodBank.dll
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\bin\Debug\netcoreapp2.1\EFCoreBloodBank.pdb
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\obj\Debug\netcoreapp2.1\EFCoreBloodBank.csprojAssemblyReference.cache
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\obj\Debug\netcoreapp2.1\EFCoreBloodBank.csproj.CoreCompileInputs.cache
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\obj\Debug\netcoreapp2.1\EFCoreBloodBank.AssemblyInfoInputs.cache
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\obj\Debug\netcoreapp2.1\EFCoreBloodBank.AssemblyInfo.cs
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\obj\Debug\netcoreapp2.1\EFCoreBloodBank.dll
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\EFCoreBloodBank\obj\Debug\netcoreapp2.1\EFCoreBloodBank.pdb

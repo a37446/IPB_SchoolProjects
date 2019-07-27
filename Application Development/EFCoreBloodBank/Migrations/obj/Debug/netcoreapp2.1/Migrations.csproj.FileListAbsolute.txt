@@ -1,0 +1,42 @@
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.deps.json
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.runtimeconfig.json
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.runtimeconfig.dev.json
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.dll
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.pdb
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\BloodBank.dll
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\BloodBank.pdb
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.csprojAssemblyReference.cache
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.csproj.CoreCompileInputs.cache
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.AssemblyInfoInputs.cache
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.AssemblyInfo.cs
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.csproj.CopyComplete
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.dll
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.pdb
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.deps.json
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.runtimeconfig.json
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.runtimeconfig.dev.json
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.pdb
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\BloodBank.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\BloodBank.pdb
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.csprojAssemblyReference.cache
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.AssemblyInfoInputs.cache
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.AssemblyInfo.cs
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.csproj.CopyComplete
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.dll
+C:\Users\Manisha\Desktop\last year of college\Windows  application development\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.pdb
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.deps.json
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.runtimeconfig.json
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.runtimeconfig.dev.json
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\Migrations.pdb
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\BloodBank.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\bin\Debug\netcoreapp2.1\BloodBank.pdb
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.csprojAssemblyReference.cache
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.AssemblyInfoInputs.cache
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.AssemblyInfo.cs
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.csproj.CopyComplete
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.dll
+C:\Users\Manisha\Desktop\EFCoreBloodBank\Migrations\obj\Debug\netcoreapp2.1\Migrations.pdb

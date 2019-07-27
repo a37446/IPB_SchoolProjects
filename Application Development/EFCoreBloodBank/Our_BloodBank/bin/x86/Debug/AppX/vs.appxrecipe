@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MANISHAKOCOMPUT</Machine>
+    <WindowsUser>manisha gautam</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>f80a6bc2-125c-4f01-b65d-26473e513cc4</PackageIdentityName>
+    <PackageIdentityPublisher>CN=manisha gautam</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>F414AABC5761BC92139C4B74B99A5ABA746EF1D42896B9C7424484229101CE9D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f80a6bc2-125c-4f01-b65d-26473e513cc4_1.0.0.0_x86__5e5s2rgw9250y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f80a6bc2-125c-4f01-b65d-26473e513cc4_5e5s2rgw9250y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f80a6bc2-125c-4f01-b65d-26473e513cc4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=manisha gautam</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-11-26T16:37:05.240</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-11-26T16:36:21.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-10-13T15:44:56.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-13T15:44:56.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-13T15:44:56.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-13T15:44:56.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-13T15:44:56.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-13T15:44:56.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-13T15:44:56.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2018-10-04T12:37:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-11-26T16:36:21.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\mainpage2.xbf">
+      <PackagePath>mainpage2.xbf</PackagePath>
+      <Modified>2018-11-26T16:36:21.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Our_BloodBank.dll">
+      <PackagePath>Our_BloodBank.dll</PackagePath>
+      <Modified>2018-11-26T16:37:04.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Our_BloodBank.exe">
+      <PackagePath>Our_BloodBank.exe</PackagePath>
+      <Modified>2018-11-26T16:37:05.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\Our_BloodBank.pdb">
+      <PackagePath>Our_BloodBank.pdb</PackagePath>
+      <Modified>2018-11-26T16:37:05.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\pages\DonorRecords.xbf">
+      <PackagePath>pages\DonorRecords.xbf</PackagePath>
+      <Modified>2018-11-26T16:36:21.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\pages\DonorsNearMe.xbf">
+      <PackagePath>pages\DonorsNearMe.xbf</PackagePath>
+      <Modified>2018-11-26T16:36:21.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\pages\FAQ.xbf">
+      <PackagePath>pages\FAQ.xbf</PackagePath>
+      <Modified>2018-11-26T16:36:21.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\pages\HomePage.xbf">
+      <PackagePath>pages\HomePage.xbf</PackagePath>
+      <Modified>2018-11-26T16:36:21.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\pages\Search.xbf">
+      <PackagePath>pages\Search.xbf</PackagePath>
+      <Modified>2018-11-26T16:36:21.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\bin\x86\Debug\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-11-26T16:36:25.368</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.Debug.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.Debug.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.Debug.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.Debug.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.Debug.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.Debug.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\chk\Native\Microsoft.NET.Native.Framework.Debug.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+C:\Users\manisha gautam\source\repos\EFCoreBloodBank\Our_BloodBank\Our_BloodBank.csproj;x86
