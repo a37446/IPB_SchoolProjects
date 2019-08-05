@@ -1,0 +1,165 @@
+
+.work_image {
+    border: 1px solid black;
+    width:200px;
+}
+
+.artist_image {
+    border: 1px solid black;
+    width:200px;
+}
+
+.event_image {
+    border: 1px solid black;
+    width:200px;
+}
+
+.museum_image {
+    border: 1px solid black;
+    width:200px;
+}
+
+.room_image {
+    border: 1px solid black;
+    width:200px;
+}
+
+.work_table td,th{
+    border: 1px solid black;
+}
+
+.user_table td,th{
+    border: 1px solid black;
+}
+
+.ticket_table td,th{
+    border: 1px solid black;
+}
+
+.room_table td,th{
+    border: 1px solid black;
+}
+
+.artist_table td,th{
+    border: 1px solid black;
+}
+
+.event_table td,th {
+    border: 1px solid black; 
+}
+
+.museum_table td,th{
+    border: 1px solid black; 
+}
+
+.visitor_table td,th {
+    border: 1px solid black; 
+}
+
+@media only screen and (max-width: 1280px) {
+  .work_image {
+    border: 1px solid black;
+    width:125px;
+}
+
+.artist_image {
+    border: 1px solid black;
+    width:125px;
+}
+
+.event_image {
+    border: 1px solid black;
+    width:125px;
+}
+
+.museum_image {
+    border: 1px solid black;
+    width:125px;
+}
+
+.room_image {
+    border: 1px solid black;
+    width:125px;
+}  
+}
+
+@media only screen and (max-width: 1024px) {
+   .work_image {
+    border: 1px solid black;
+    width:100px;
+}
+
+.artist_image {
+    border: 1px solid black;
+    width:100px;
+}
+
+.event_image {
+    border: 1px solid black;
+    width:100px;
+}
+
+.museum_image {
+    border: 1px solid black;
+    width:100px;
+}
+
+.room_image {
+    border: 1px solid black;
+    width:100px;
+} 
+}
+
+@media only screen and (max-width: 768px) {
+   .work_image {
+    border: 1px solid black;
+    width:75px;
+}
+
+.artist_image {
+    border: 1px solid black;
+    width:75px;
+}
+
+.event_image {
+    border: 1px solid black;
+    width:75px;
+}
+
+.museum_image {
+    border: 1px solid black;
+    width:75px;
+}
+
+.room_image {
+    border: 1px solid black;
+    width:75px;
+} 
+}
+
+@media only screen and (max-width: 600px) {
+   .work_image {
+    border: 1px solid black;
+    width:60px;
+}
+
+.artist_image {
+    border: 1px solid black;
+    width:60px;
+}
+
+.event_image {
+    border: 1px solid black;
+    width:60px;
+}
+
+.museum_image {
+    border: 1px solid black;
+    width:60px;
+}
+
+.room_image {
+    border: 1px solid black;
+    width:60px;
+} 
+}
